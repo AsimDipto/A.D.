@@ -1,1 +1,416 @@
-
+[
+  {
+    "category": "Bangla",
+    "name": "BTV News",
+    "link": "http://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/index.m3u8",
+    "logo": "https://i.imgur.com/H9qgGSc.png",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Bangla",
+    "name": "BTV World",
+    "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8",
+    "logo": "https://i.imgur.com/RR0Iv6V.png",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Bangla",
+    "name": "Songsad TV",
+    "link": "http://103.229.254.25:7001/play/a069/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Bangla",
+    "name": "Live Sports",
+    "link": "http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8",
+    "logo": "https://i.imgur.com/eyAInC9.png",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Bangla",
+    "name": "Gtv HD",
+    "link": "http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8",
+    "logo": "https://i.imgur.com/eyAInC9.png",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Bangla",
+    "name": "T Sports HD",
+    "link": "http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/index.m3u8",
+    "logo": "https://i.imgur.com/CJUmEHD.png",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Bangla",
+    "name": "Jamuna Tv",
+    "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
+    "logo": "https://i.imgur.com/ds3aThu.jpg",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Bangla",
+    "name": "Nagorik TV",
+    "link": "http://198.195.239.50:8095/nagorik/index.m3u8",
+    "logo": "https://i.imgur.com/2cpHJKq.png",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Bangla",
+    "name": "Maasranga",
+    "link": "http://tv.dugdugilive.com:8080/0ne$ky23/Massranga/index.m3u8",
+    "logo": "https://i.imgur.com/7ftu2Rt.jpg",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Bangla",
+    "name": "Duronto TV",
+    "link": "http://103.229.254.25:7001/play/a05k/index.m3u8",
+    "logo": "https://i.imgur.com/PK9Gm5g.png",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Bangla",
+    "name": "ATN Bangla",
+    "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8",
+    "logo": "https://i.imgur.com/5PsRkPd.png",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Bangla",
+    "name": "Banglavision",
+    "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8",
+    "logo": "https://i.imgur.com/HX8SSDA.png",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "News",
+    "name": "Somoy News",
+    "link": "http://103.229.254.25:7001/play/a05l/index.m3u8",
+    "logo": "https://i.imgur.com/Z2QvpTn.png",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "News",
+    "name": "Ekattor TV",
+    "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8",
+    "logo": "https://i.imgur.com/i8T9qQs.png",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Music",
+    "name": "9XM",
+    "link": "http://103.175.73.12:8080/live/155/155_0.m3u8",
+    "logo": "",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Drama",
+    "name": "Star Jalsha HD",
+    "link": "http://103.229.254.25:7001/play/a0c0/index.m3u8",
+    "logo": "https://i.imgur.com/9d1xXjN.png",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Drama",
+    "name": "Zee Bangla HD",
+    "link": "http://103.229.254.25:7001/play/a0c3/index.m3u8",
+    "logo": "https://i.imgur.com/e5Ldh7e.png",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Kids",
+    "name": "Cartoon Network",
+    "link": "http://103.229.254.25:7001/play/a0cn/index.m3u8",
+    "logo": "",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Documentary",
+    "name": "Discovery HD",
+    "link": "http://103.229.254.25:7001/play/a03g/index.m3u8",
+    "logo": "",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Movies",
+    "name": "Star Gold HD",
+    "link": "http://103.229.254.25:7001/play/a0dd/index.m3u8",
+    "logo": "",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Sports",
+    "name": "Sony Sports 1 HD",
+    "link": "http://103.175.73.12:8080/live/74/74_0.m3u8",
+    "logo": "",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Sports",
+    "name": "Star Sports 1 HD",
+    "link": "http://103.229.254.25:7001/play/a0a0/index.m3u8",
+    "logo": "",
+    "cookie": "",
+    "user_agent": ""
+  }
+]
+[
+  {
+    "category": "Islamic",
+    "name": "Songsad TV",
+    "link": "http://103.229.254.25:7001/play/a069/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Bangla",
+    "name": "Mohona TV",
+    "link": "http://103.229.254.25:7001/play/a05t/index.m3u8",
+    "logo": "https://i.imgur.com/4imblNY.jpg",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Bangla",
+    "name": "Asian TV",
+    "link": "http://103.229.254.25:7001/play/a063/index.m3u8",
+    "logo": "https://i.imgur.com/fxq0pV2.png",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Bangla",
+    "name": "Boishakhi TV",
+    "link": "http://tv.dugdugilive.com:8080/0ne$ky23/Boishakhi/tracks-v1a1/mono.m3u8",
+    "logo": "https://i.imgur.com/pTJSGtj.png",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Bangla",
+    "name": "Channel 9 HD",
+    "link": "http://103.229.254.25:7001/play/a05j/index.m3u8",
+    "logo": "https://i.imgur.com/fj8nxOw.png",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Bangla",
+    "name": "Channel I",
+    "link": "http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/tracks-v1a1/mono.m3u8",
+    "logo": "https://i.imgur.com/p0I5dr0.png",
+    "cookie": ""
+  },
+  {
+    "category": "Bangla",
+    "name": "Deepto TV",
+    "link": "http://103.229.254.25:7001/play/a05r/index.m3u8",
+    "logo": "https://i.imgur.com/tPZKfLr.png",
+    "cookie": ""
+  },
+  {
+    "category": "Bangla",
+    "name": "Desh TV",
+    "link": "http://103.229.254.25:7001/play/a05s/index.m3u8",
+    "logo": "https://i.imgur.com/JgkIH3w.png",
+    "cookie": ""
+  },
+  {
+    "category": "Bangla",
+    "name": "Nexus TV",
+    "link": "http://103.229.254.25:7001/play/a05m/index.m3u8",
+    "logo": "",
+    "cookie": ""
+  },
+  {
+    "category": "News",
+    "name": "ATN News",
+    "link": "http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/tracks-v1a1/mono.m3u8",
+    "logo": "https://i.imgur.com/v9PqrCG.png",
+    "cookie": ""
+  },
+  {
+    "category": "News",
+    "name": "Ekhon TV",
+    "link": "http://103.229.254.25:7001/play/a09k/index.m3u8",
+    "logo": "https://i.imgur.com/i8T9qQs.png",
+    "cookie": ""
+  },
+  {
+    "category": "News",
+    "name": "Independent TV",
+    "link": "http://tv.dugdugilive.com:8080/0ne$ky23/Independent/tracks-v1a1/mono.m3u8",
+    "logo": "https://i.imgur.com/kviJN1i.png",
+    "cookie": ""
+  },
+  {
+    "category": "News",
+    "name": "News 24",
+    "link": "http://103.229.254.25:7001/play/a06i/index.m3u8",
+    "logo": "https://i.imgur.com/FxsW4XI.png",
+    "cookie": ""
+  },
+  {
+    "category": "Bangla",
+    "name": "DBC News",
+    "link": "http://tv.dugdugilive.com:8080/0ne$ky23/DBC/tracks-v1a1/mono.m3u8",
+    "logo": "",
+    "cookie": ""
+  },
+  {
+    "category": "Bangla",
+    "name": "Channel 24",
+    "link": "http://tv.dugdugilive.com:8080/0ne$ky23/Channel24/tracks-v1a1/mono.m3u8",
+    "logo": "https://i.imgur.com/MmhxR5E.png",
+    "cookie": ""
+  },
+  {
+    "category": "Bangla",
+    "name": "Global Tv",
+    "link": "http://103.229.254.25:7001/play/a05o/index.m3u8",
+    "logo": "",
+    "cookie": ""
+  },
+  {
+    "category": "Bangla",
+    "name": "Ekushey ETV",
+    "link": "http://tv.dugdugilive.com:8080/0ne$ky23/EkusheyTV/tracks-v1a1/mono.m3u8",
+    "logo": "https://i.imgur.com/kFqOMtx.png",
+    "cookie": ""
+  },
+  {
+    "category": "Bangla",
+    "name": "NTV",
+    "link": "http://tv.dugdugilive.com:8080/0ne$ky23/NTV/tracks-v1a1/mono.m3u8",
+    "logo": "https://i.imgur.com/3usnOla.png",
+    "cookie": ""
+  },
+  {
+    "category": "Bangla",
+    "name": "RTV",
+    "link": "http://103.229.254.25:7001/play/a068/index.m3u8",
+    "logo": "https://i.imgur.com/yi5p51T.png",
+    "cookie": ""
+  },
+  {
+    "category": "Bangla",
+    "name": "SA TV HD",
+    "link": "http://103.229.254.25:7001/play/a062/index.m3u8",
+    "logo": "https://i.imgur.com/fraEjzm.png",
+    "cookie": ""
+  },
+  {
+    "category": "Bangla",
+    "name": "Bangla TV HD",
+    "link": "http://tv.dugdugilive.com:8080/0ne$ky23/BanglaTV/tracks-v1a1/mono.m3u8",
+    "logo": "https://i.imgur.com/K43LsMQ.png",
+    "cookie": ""
+  },
+  {
+    "category": "Bangla",
+    "name": "Bijoy Tv",
+    "link": "http://103.229.254.25:7001/play/a066/index.m3u8",
+    "logo": "https://i.imgur.com/kDmkexe.png",
+    "cookie": ""
+  },
+  {
+    "category": "Bangla",
+    "name": "MyTV",
+    "link": "http://103.229.254.25:7001/play/a05z/index.m3u8",
+    "logo": "https://i.imgur.com/bahWhBG.png",
+    "cookie": ""
+  },
+  {
+    "category": "Bangla",
+    "name": "Ananda TV",
+    "link": "http://103.229.254.25:7001/play/a05v/index.m3u8",
+    "logo": "https://i.imgur.com/h5FhOWT.png",
+    "cookie": ""
+  },
+  {
+    "category": "Music",
+    "name": "9XM Jalwa",
+    "link": "http://103.175.73.12:8080/live/155/161_0.m3u8",
+    "logo": "",
+    "cookie": ""
+  },
+  {
+    "category": "Music",
+    "name": "Zoom",
+    "link": "http://103.175.73.12:8080/live/153/153_0.m3u8",
+    "logo": "https://i.imgur.com/7rnhie0.png",
+    "cookie": ""
+  },
+  {
+    "category": "Drama",
+    "name": "Star Jalsha",
+    "link": "http://103.229.254.25:7001/play/a075/index.m3u8",
+    "logo": "https://i.imgur.com/ppJO2Ep.png",
+    "cookie": ""
+  },
+  {
+    "category": "Drama",
+    "name": "Sun Bangla",
+    "link": "http://103.229.254.25:7001/play/a0cw/index.m3u8",
+    "logo": "https://i.imgur.com/PW9hRDa.png",
+    "cookie": ""
+  },
+  {
+    "category": "Kids",
+    "name": "Nick Jr",
+    "link": "http://103.229.254.25:7001/play/a0di/index.m3u8",
+    "logo": "",
+    "cookie": ""
+  },
+  {
+    "category": "Documentary",
+    "name": "NatGeo Wild HD",
+    "link": "http://103.175.73.12:8080/live/133/133_0.m3u8",
+    "logo": "",
+    "cookie": ""
+  },
+  {
+    "category": "Movies",
+    "name": "Zee Cinema HD",
+    "link": "http://tv.dugdugilive.com:8080/0ne$ky23/ZeeCinema/tracks-v1a1/mono.m3u8",
+    "logo": "",
+    "cookie": ""
+  },
+  {
+    "category": "Sports",
+    "name": "Bein Sport 1",
+    "link": "http://103.229.254.25:7001/play/a0f0/index.m3u8",
+    "logo": "",
+    "cookie": ""
+  },
+  {
+    "category": "Sports",
+    "name": "PTV Sports",
+    "link": "http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8",
+    "logo": "",
+    "cookie": ""
+  }
+]
