@@ -174,9 +174,7 @@
     "logo": "",
     "cookie": "",
     "user_agent": ""
-  }
-]
-[
+  },
   {
     "category": "Islamic",
     "name": "Songsad TV",
@@ -412,5 +410,173 @@
     "link": "http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8",
     "logo": "",
     "cookie": ""
+  },
+  {
+    "category": "Music",
+    "name": "MTV HD+",
+    "link": "http://103.229.254.25:7001/play/a02s/index.m3u8",
+    "logo": "https://i.imgur.com/DKVLQ7m.png",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Music",
+    "name": "Music India",
+    "link": "http://103.175.73.12:8080/live/156/158_0.m3u8",
+    "logo": "https://i.imgur.com/LZ7W3Yc.png",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Music",
+    "name": "Mastiii",
+    "link": "http://103.175.73.12:8080/live/156/156_0.m3u8",
+    "logo": "https://i.imgur.com/0rFA2Cx.png",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Music",
+    "name": "E24",
+    "link": "http://103.175.73.12:8080/live/156/159_0.m3u8",
+    "logo": "https://i.imgur.com/3mkjuTk.png",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Movies",
+    "name": "B4U Music",
+    "link": "http://103.175.73.12:8080/live/156/157_0.m3u8",
+    "logo": "https://i.imgur.com/stZqDcA.png",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Kids",
+    "name": "Doreamon",
+    "link": "https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8",
+    "logo": "",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Kids",
+    "name": "Sonic",
+    "link": "http://103.229.254.25:7001/play/a0dl/index.m3u8",
+    "logo": "",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Documentary",
+    "name": "Sony BBC Earth HD",
+    "link": "http://103.229.254.25:7001/play/a031/index.m3u8",
+    "logo": "",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Movies",
+    "name": "Sony Max",
+    "link": "http://103.229.254.25:7001/play/a0co/index.m3u8",
+    "logo": "",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Movies",
+    "name": "Sony Max HD",
+    "link": "http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/tracks-v1a1/mono.m3u8",
+    "logo": "",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Movies",
+    "name": "Sony Max 2",
+    "link": "http://103.175.73.12:8080/live/39/39_0.m3u8",
+    "logo": "",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Movies",
+    "name": "Sony Wah",
+    "link": "http://103.175.73.12:8080/live/38/38_0.m3u8",
+    "logo": "",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Movies",
+    "name": "& Picture HD",
+    "link": "http://tv.dugdugilive.com:8080/0ne$ky23/AndPictures/tracks-v1a1/mono.m3u8",
+    "logo": "",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Movies",
+    "name": "Star Gold HD",
+    "link": "http://103.229.254.25:7001/play/a0dd/index.m3u8",
+    "logo": "",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Movies",
+    "name": "Goldmines Bollywood",
+    "link": "http://103.229.254.25:7001/play/a07l/index.m3u8",
+    "logo": "",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Sports",
+    "name": "Sony SIX",
+    "link": "http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8",
+    "logo": "",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Sports",
+    "name": "Sony Sports 2 HD",
+    "link": "http://103.229.254.25:7001/play/a0ef/index.m3u8",
+    "logo": "",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Sports",
+    "name": "Star Sports Select 1 HD",
+    "link": "http://103.229.254.25:7001/play/a0bz/index.m3u8",
+    "logo": "",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Entertainment",
+    "name": "SET HD",
+    "link": "https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1770616427~acl=/*~id=93026888714405741673988470386661~hmac=68fcfa179c5589e72556f2113695ccc33d7da0278ab0fea7bf76e148460f49b0",
+    "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/4_244.png",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Entertainment",
+    "name": "Sony SAB HD",
+    "link": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1770616427~acl=/*~id=93026888714405741673988470386661~hmac=68fcfa179c5589e72556f2113695ccc33d7da0278ab0fea7bf76e148460f49b0",
+    "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/33_247.png",
+    "cookie": "",
+    "user_agent": ""
+  },
+  {
+    "category": "Regional",
+    "name": "Sony Marathi",
+    "link": "https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1770616427~acl=/*~id=93026888714405741673988470386661~hmac=68fcfa179c5589e72556f2113695ccc33d7da0278ab0fea7bf76e148460f49b0",
+    "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/36_260.png",
+    "cookie": "",
+    "user_agent": ""
   }
 ]
